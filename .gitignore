@@ -1,3 +1,6 @@
+########## Test #############
+MainTest.java
+
 ########## Gradle ##########
 .gradle
 build/
